@@ -1,0 +1,209 @@
+﻿  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSlider.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxLabel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxPanel.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxButton.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(194): note: while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(486): note: see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)' being compiled
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(491): note: see reference to class template instantiation 'ofxColorPicker_<unsigned char>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(216): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(225): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(226): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(245): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(236): note: while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorWheel(void)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(485): note: see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorWheel(void)' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(370): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(352): note: while compiling class template member function 'bool ofxInputField<float>::mousePressed(ofMouseEventArgs &)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(805): note: see reference to class template instantiation 'ofxInputField<float>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(531): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(472): note: while compiling class template member function 'bool ofxInputField<float>::keyPressed(ofKeyEventArgs &)'
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(558): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(560): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(776): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(773): note: while compiling class template member function 'void ofxInputField<float>::valueChanged(Type &)'
+          with
+          [
+              Type=float
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxinputfield.cpp(148): note: see reference to function template instantiation 'void ofxInputField<float>::valueChanged(Type &)' being compiled
+          with
+          [
+              Type=float
+          ]
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofpolyline.inl(409): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\graphics\ofpolyline.inl(331): note: while compiling class template member function 'void ofPolyline_<ofDefaultVertexType>::arc(const T &,float,float,float,float,bool,int)'
+          with
+          [
+              T=ofDefaultVertexType
+          ] (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp)
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(208): note: see reference to function template instantiation 'void ofPolyline_<ofDefaultVertexType>::arc(const T &,float,float,float,float,bool,int)' being compiled
+          with
+          [
+              T=ofDefaultVertexType
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(194): note: while compiling class template member function 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxcolorpicker.cpp(486): note: see reference to function template instantiation 'ofMesh ofxColorPicker_<unsigned char>::getColorPoint(void)' being compiled
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxToggle.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(11): note: while compiling class template member function 'ofxVecSlider_<ofDefaultVec3> *ofxVecSlider_<ofDefaultVec3>::setup(ofParameter<ofDefaultVec3>,float,float)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(7): note: see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec3> *ofxVecSlider_<ofDefaultVec3>::setup(ofParameter<ofDefaultVec3>,float,float)' being compiled
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(69): note: see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec3>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<3,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(54): note: while compiling class template member function 'void ofxVecSlider_<ofDefaultVec3>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec3
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(19): note: see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec3>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec3
+          ]
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(11): note: while compiling class template member function 'ofxVecSlider_<ofDefaultVec2> *ofxVecSlider_<ofDefaultVec2>::setup(ofParameter<ofDefaultVec2>,float,float)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(7): note: see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec2> *ofxVecSlider_<ofDefaultVec2>::setup(ofParameter<ofDefaultVec2>,float,float)' being compiled
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(64): note: see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec2>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(54): note: while compiling class template member function 'void ofxVecSlider_<ofDefaultVec2>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec2
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(19): note: see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec2>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec2
+          ]
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(11): note: while compiling class template member function 'ofxVecSlider_<ofDefaultVec4> *ofxVecSlider_<ofDefaultVec4>::setup(ofParameter<ofDefaultVec4>,float,float)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(7): note: see reference to function template instantiation 'ofxVecSlider_<ofDefaultVec4> *ofxVecSlider_<ofDefaultVec4>::setup(ofParameter<ofDefaultVec4>,float,float)' being compiled
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(74): note: see reference to class template instantiation 'ofxVecSlider_<ofDefaultVec4>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<4,float,0>::length_type', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(54): note: while compiling class template member function 'void ofxVecSlider_<ofDefaultVec4>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofDefaultVec4
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(19): note: see reference to function template instantiation 'void ofxVecSlider_<ofDefaultVec4>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofDefaultVec4
+          ]
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(11): note: while compiling class template member function 'ofxVecSlider_<ofVec2f> *ofxVecSlider_<ofVec2f>::setup(ofParameter<ofVec2f>,float,float)'
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(7): note: see reference to function template instantiation 'ofxVecSlider_<ofVec2f> *ofxVecSlider_<ofVec2f>::setup(ofParameter<ofVec2f>,float,float)' being compiled
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(79): note: see reference to class template instantiation 'ofxVecSlider_<ofVec2f>' being compiled
+d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(54): note: while compiling class template member function 'void ofxVecSlider_<ofVec2f>::changeValue(VecType &)'
+          with
+          [
+              VecType=ofVec2f
+          ]
+  d:\ual\21-22 coding two advanced frameworks\of_v0.11.2_vs2017_release\addons\ofxgui\src\ofxslidergroup.cpp(19): note: see reference to function template instantiation 'void ofxVecSlider_<ofVec2f>::changeValue(VecType &)' being compiled
+          with
+          [
+              VecType=ofVec2f
+          ]
+     Creating library bin\SimpleProject_debug.lib and object bin\SimpleProject_debug.exp
+  SimpleProject.vcxproj -> D:\UAL\21-22 Coding Two Advanced Frameworks\Week12\SimpleProject\SimpleProject\bin\SimpleProject_debug.exe
+  
+  	                   2	D:\UAL\21-22 Coding Two Advanced Frameworks\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	    New File  		 1826304	D:\UAL\21-22 Coding Two Advanced Frameworks\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\fmod.dll
+  	    New File  		 2041856	D:\UAL\21-22 Coding Two Advanced Frameworks\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\fmodL.dll
+  
+  	                   1	D:\UAL\21-22 Coding Two Advanced Frameworks\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	D:\UAL\21-22 Coding Two Advanced Frameworks\Week12\SimpleProject\SimpleProject\bin\fmod.dll
+  	  *EXTRA File 		 2041856	D:\UAL\21-22 Coding Two Advanced Frameworks\Week12\SimpleProject\SimpleProject\bin\fmodL.dll
+  	    New File  		 6942208	D:\UAL\21-22 Coding Two Advanced Frameworks\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\FreeImage.dll
