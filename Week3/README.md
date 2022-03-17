@@ -7,4 +7,4 @@
     I have two types of boids to pay attention to each other.
     They keep as two separate flocks, but it stays away from each other!
 
-<img src="boyd.gif" width="70%">
+<img src="Boyd.gif" width="70%">
