@@ -15,9 +15,10 @@ The version of the OpenFrameworks that I used is: of_v0.11.2_vs2017_release
 
 2. Noise
 
-These are two kinds of noise animations. One is wireframed, the other one is meshed.
-
 <img src="img/Noise1.gif" width="70%">
 
 
-More animations are visible in this link:
+
+
+I had some errors to upload more gif files.
+More animations are visible in this link: https://youtu.be/GzYMV2P7LFc
