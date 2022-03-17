@@ -1,3 +1,26 @@
-# Coding_Two
+# Open Frameworks animation
 
-<img src="Simple.gif" width="70%">
+I made animations of different shapes using Open Frameworks.
+I might further develop them to react on music. 
+It will be even better if the sound react shapes are in 3D!
+
+The version of the OpenFrameworks that I used is: of_v0.11.2_vs2017_release
+
+
+1. Rectangular loop
+
+<img src="img/Rect_Loop.gif" width="70%">
+
+
+2. Cross loop
+
+<img src="img/CrossLoop.gif" width="70%">
+
+
+3. Noise
+
+These are two kinds of noise animations. One is wireframed, the other one is meshed.
+
+<img src="img/Noise1.gif" width="70%">
+
+<img src="img/Noise2.gif" width="70%">
