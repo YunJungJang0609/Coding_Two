@@ -12,6 +12,7 @@ ofxSceneManager uses ofxEasing, so I downloaded it from here:https://github.com/
 OpenFrameworks version that I used is: of_v0.11.2_vs2017_release.</br></br>
 
 To run the project, you need to turn on your computer microphone.
+The program will detect the sound, and change the size of the rectangles.
 
 
 
@@ -21,4 +22,4 @@ To run the project, you need to turn on your computer microphone.
 
 
 
-My video presentation is here: 
+My video presentation is here: https://youtu.be/KlPWEeuKTk4
